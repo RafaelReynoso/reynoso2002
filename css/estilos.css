@@ -1,0 +1,26 @@
+h1{
+	text-align: center;
+	color: blue;
+}
+
+	
+nav{
+	text-align: center;
+	font-style: italic;
+	font-size: 40px;
+}
+h2{
+	text-align: center;
+	color: blue;
+}
+p{
+	text-align: center;
+}
+img{
+	width: 500px;
+	background-position: center;
+}
+div{
+	background-color: red;
+	width: auto;
+}
