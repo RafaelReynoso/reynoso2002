@@ -18,9 +18,9 @@ p{
 }
 img{
 	width: 500px;
-	background-position: center;
+	;
 }
-div{
+#aaa{
 	background-color: red;
 	width: auto;
 }
